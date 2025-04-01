@@ -23,10 +23,3 @@ int main()
 
 	return 0;
 }
-
-/*
-Output:
-	cout << (int)(Value1 + Value2) << endl;
-	cout << (float)(Number1 + Number2) << endl;
-
-*/
