@@ -14,6 +14,7 @@ int main()
 	cout << Number1 - Number2 << endl;
 	cout << Number1 * Number2 << endl;
 	cout << Number1 / Number2 << endl;
+	cout << Number1 % Number2 << endl;
 
 	cout << Num1 + Num2 << endl;
 	cout << Num1 - Num2 << endl;
